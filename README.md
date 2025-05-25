@@ -8,7 +8,7 @@
 <h4>- Purchase "Lodging' upgrade until "Next in line"</h4>
 <h5>(Can be used in Camp or in the Wilderness Camp)</h5>
 
-<img src="https://raw.githubusercontent.com/KurmaIU/rdr2-usefullresources/refs/heads/main/images/Lodging.jpeg" height="350" width="600"/>
+<img src="https://raw.githubusercontent.com/KurmaIU/rdr2-usefullresources/refs/heads/main/images/Lodging.jpeg"/>
 <img src="https://raw.githubusercontent.com/KurmaIU/rdr2-usefullresources/refs/heads/main/images/FastTravel-InCamp.jpeg"/>
 <img src="https://raw.githubusercontent.com/KurmaIU/rdr2-usefullresources/refs/heads/main/images/FastTravel-InWildernessCamp.jpeg"/>
 
