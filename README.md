@@ -13,5 +13,6 @@
 <img src="https://raw.githubusercontent.com/KurmaIU/rdr2-usefullresources/refs/heads/main/images/FastTravel-InWildernessCamp.jpeg"/>
 
 >- Early Game Weapons
-- [Lancaster Repeater](https://www.youtube.com/watch?v=C4VkvbsNMYc)
+- [Lancaster Repeater](https://www.youtube.com/watch?v=C4VkvbsNMYc) - (Chapter 2)
 - [Jim "boy" Callaway - Gun Fighters](https://www.youtube.com/watch?v=Ipe4FUZu1n4) - (Chapter 2)
+- [Bolt Action Rifle](https://www.youtube.com/watch?v=a-FyXaVX0Rc), [2](https://www.youtube.com/watch?v=ngMEZQ617jw), [3](https://youtu.be/hC0xWTzcGMU?si=w7Vsw5tqo5bZpGNZ&t=1116) - (Chapter 2)
